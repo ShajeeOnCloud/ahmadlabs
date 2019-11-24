@@ -1,4 +1,4 @@
-package shajee.ahmad.labs.rx.controller;
+package shajee;
 
 import java.util.Set;
 
