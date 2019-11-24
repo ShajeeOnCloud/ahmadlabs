@@ -1,4 +1,4 @@
-# ahmadlabs
+# JavaRxRestDemo
 Sample and test projects
 
 JavaRxAPI is a Spring boot Application that exposes some Rest APIs that utilizes JavaRx capabilities to render streams of data.
