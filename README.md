@@ -7,6 +7,6 @@ Its a demo application aimed at helping anyone interested to use this approach.
 
 Feel free to download, copy or redistribute.
 
-Provide your comments here::
+If you want to provide some feedback then please provide your comments here::
 https://tech-rapids.blogspot.com/2019/11/java-rx.html
 
